@@ -1,0 +1,1 @@
+class UserManagementRequestModel extends BaseRequestModel {}
